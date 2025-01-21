@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "90e5",
+      "username": "Eteri",
+      "password": "1234"
+    },
+    {
+      "id": "319e",
+      "username": "Eteri",
+      "password": "1111"
+    }
+  ],
+  "meals": [
+    {
+      "id": 1,
+      "name": "Pancakes",
+      "category": "breakfast",
+      "image": "/images/breakfast1.jpg",
+      "description": "Fluffy pancakes with syrup",
+      "price": "$5.99"
+    },
+    {
+      "id": 2,
+      "name": "Scrambled Eggs",
+      "category": "breakfast",
+      "image": "/images/breakfast2.jpg",
+      "description": "Soft and creamy scrambled eggs",
+      "price": "$4.49"
+    },
+    {
+      "id": 3,
+      "name": "Croissant with Avocado and Salmon",
+      "category": "breakfast",
+      "image": "/images/breakfast3.jpg",
+      "description": "Croissant with Avocado and Salmon",
+      "price": "$16"
+    },
+    {
+      "id": 4,
+      "name": "Grilled Chicken Salad",
+      "category": "lunch",
+      "image": "/images/lunch1.jpg",
+      "description": "Healthy grilled chicken with fresh vegetables",
+      "price": "$8.99"
+    },
+    {
+      "id": 5,
+      "name": "Spaghetti Carbonara",
+      "category": "lunch",
+      "image": "/images/lunch2.jpg",
+      "description": "Classic Italian pasta with creamy sauce",
+      "price": "$9.99"
+    },
+    {
+      "id": 6,
+      "name": "Steak with vegetables",
+      "category": "lunch",
+      "image": "/images/lunch3.jpg",
+      "description": "Medium-rare steak with vegetables",
+      "price": "$27.99"
+    },
+    {
+      "id": 7,
+      "name": "Grilled Salmon",
+      "category": "dinner",
+      "image": "/images/dinner1.jpg",
+      "description": "Grilled salmon with a side of asparagus",
+      "price": "$14.75"
+    },
+    {
+      "id": 8,
+      "name": "Caesar Salad",
+      "category": "dinner",
+      "image": "/images/dinner2.jpg",
+      "description": "Caesar Salad with chicken",
+      "price": "$15"
+    },
+    {
+      "id": 9,
+      "name": "Pizza Pepperoni",
+      "category": "dinner",
+      "image": "/images/dinner3.jpg",
+      "description": "Pizza with pepperoni",
+      "price": "$12.99"
+    }
+  ]
+}
