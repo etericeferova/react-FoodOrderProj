@@ -1,8 +1,8 @@
 .register-container {
   max-width: 400px;
-  margin: 0 auto;
-  padding: 20px;
-  border: 1px solid #ddd;
+  margin: 620px;
+  padding: 30px;
+  border: 1px solid #6c6b6b;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   text-align: center;
@@ -11,6 +11,8 @@
 .register-heading {
   font-size: 24px;
   margin-bottom: 20px;
+  color: black;
+  background-color: white;
 }
 
 .register-form {
@@ -22,7 +24,7 @@
   margin-bottom: 15px;
   padding: 10px;
   font-size: 16px;
-  border: 1px solid #ccc;
+  border: 1px solid #6a6a6a;
   border-radius: 4px;
 }
 
